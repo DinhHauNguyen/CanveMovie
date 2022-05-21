@@ -1,0 +1,3 @@
+export const SET_FILM_LIST = 'SET_FILM_LIST'
+export const SET_FILM_DANG_CHIEU = 'SET_FILM_DANG_CHIEU'
+export const SET_FILM_SAP_CHIEU = 'SET_FILM_SAP_CHIEU'

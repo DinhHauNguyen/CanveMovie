@@ -1,0 +1,23 @@
+.box1 {
+    margin: 0 auto;
+    width: 100vw;
+    height: 100%;
+    background: rgba(16,18,27,0.4);
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+  }
+.box2{
+  backdrop-filter: blur(50px);
+  background: rgba(16, 18, 27, 0.165);
+}
+.btnLichChieu{
+  background-color: green;
+  width: 100%;
+  display: inline;
+  padding: 7px;
+  border: 1px solid rgb(24, 191, 24);
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
